@@ -1,3 +1,3 @@
 # Website.io
-First web
+First website, the only function is to RickRoll others.
 
